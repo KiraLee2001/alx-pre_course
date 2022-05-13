@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "swap"
-
-echo "ALX"
+echo "ALX School"
 
